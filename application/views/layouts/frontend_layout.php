@@ -155,6 +155,7 @@
 
     </script>
 
+
   </head>
 
   <body>
@@ -380,12 +381,8 @@
       </header>
       <!-- End Header -->
 
-
       <?= $content ?>
 
-
-
-      
       <!-- Start Footer -->
       <footer class="footer">
         <!-- Start Footer Top Part -->
@@ -595,5 +592,8 @@
 
       // End ropdown image 
     </script>
+
+
+
   </body>
 </html>
